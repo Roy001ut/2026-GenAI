@@ -21,3 +21,5 @@ ANTHROPIC_API_KEY=your_key_here uvicorn main:app --reload --port 8000
 
 - `POST /analyze` — Upload a PDF or image, get full analysis
 - `GET /health` — Health check
+
+test
